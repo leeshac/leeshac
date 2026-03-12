@@ -18,7 +18,7 @@ When I'm not coding, I'm probably hyperfixating on something niche.
 
 | project | what it is |
 |---|---|
-| [expiry-date-tracker](https://github.com/leeshac/data-preprocess) | YOLO object detection app that reads expiry dates from photos — React Native frontend, FastAPI + PostgreSQL backend on AWS Lightsail |
+| [expiry-date-tracker](https://github.com/leeshac/expiry-date-application) | YOLO object detection app that reads expiry dates from photos — React Native frontend, FastAPI + PostgreSQL backend on AWS Lightsail |
 | [data-preprocessing-package](https://github.com/leeshac/data-preprocess) | modular Python package for standardising preprocessing across numerical, categorical, and text inputs |
 | [portfolio site](https://aleesha.dev/) | ongoing updates to my personal portfolio |
 
